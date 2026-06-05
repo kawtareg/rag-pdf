@@ -1,4 +1,4 @@
-# 📚 RAG PDF — Question Answering on pdfs
+# RAG PDF — Question Answering on pdfs
 
 Ask questions to your PDF documents using a local LLM.
 
@@ -66,7 +66,7 @@ Question → Embedding → Semantic search → Top 3 chunks
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/TON_PSEUDO/rag-pdf
+git clone https://github.com/kawtareg/rag-pdf
 cd rag-pdf
 ```
 
